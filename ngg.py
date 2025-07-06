@@ -1,7 +1,5 @@
 # Python project to implement number guessing game
-<br>
 # Author: Anuj Savant
-<br>
 # Date: 6/7/25
 
 
